@@ -1,2 +1,2 @@
 # ChallengersTracker
-This app will automatically list all participants to the CSharpChallenge, their projects and other important metadata
+This app will automatically track new participants to the CSharpChallenge, list them and their projects and extract other important metadata

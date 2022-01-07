@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengersTracker", "ChallengersTracker\ChallengersTracker.csproj", "{DBCF9AE6-4BE9-4214-8D97-C989C85060A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengersTracker", "ChallengersTracker\ChallengersTracker.csproj", "{DBCF9AE6-4BE9-4214-8D97-C989C85060A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengersTracker.Data", "ChallengersTracker.Data\ChallengersTracker.Data.csproj", "{EA40DB9A-085D-4E93-914E-11780965175C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DBCF9AE6-4BE9-4214-8D97-C989C85060A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBCF9AE6-4BE9-4214-8D97-C989C85060A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBCF9AE6-4BE9-4214-8D97-C989C85060A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA40DB9A-085D-4E93-914E-11780965175C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA40DB9A-085D-4E93-914E-11780965175C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA40DB9A-085D-4E93-914E-11780965175C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA40DB9A-085D-4E93-914E-11780965175C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

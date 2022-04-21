@@ -1,3 +1,6 @@
+## IMPORTANT NOTE
+For an unknown reason, tweeter did not approve my request for the dev key. This frustrating situation leads me to abandon this project.
+
 # ChallengersTracker
 This app will automatically track new participants to the CSharpChallenge, list them and their projects and extract other important metadata.
 The c# coding challenge was initiated by Tim in January 2022
